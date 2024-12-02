@@ -1,1 +1,1 @@
-# Solar-Irridiance-Machinr-Learning
+# Solar-Irridiance-Machine-Learning
